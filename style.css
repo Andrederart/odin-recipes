@@ -1,0 +1,12 @@
+body {
+    background-color: lightcyan;
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+    font-stretch: expanded;
+    color: brown;
+    background-color: lightgreen;
+    text-align: center;
+}
